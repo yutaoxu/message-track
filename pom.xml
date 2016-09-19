@@ -5,7 +5,7 @@
 
     <groupId>com.tomasky</groupId>
     <artifactId>message-track</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.0</version>
     <packaging>jar</packaging>
 
     <name>message-track</name>
