@@ -7,11 +7,6 @@
     <artifactId>message-track</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
-
-    <name>message-track</name>
-    <description>message-track</description>
-
-    <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
         <version>1.4.0.RELEASE</version>
